@@ -1,0 +1,7 @@
+duration,D_gumbel,D_lp3,D_critical,gumbel_passes,lp3_passes,best_fit
+15min,0.2277,0.1808,0.2074,False,True,LP3
+30min,0.1685,0.1598,0.2074,True,True,LP3
+1hr,0.1626,0.1083,0.2074,True,True,LP3
+2hr,0.109,0.0918,0.2074,True,True,LP3
+6hr,0.1069,0.1008,0.2074,True,True,LP3
+24hr,0.0666,0.0664,0.2074,True,True,LP3

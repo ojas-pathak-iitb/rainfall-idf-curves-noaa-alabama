@@ -1,0 +1,7 @@
+duration,G_stat,G_crit,is_outlier,outlier_year,outlier_value
+15min,5.8668,3.0663,True,1971.0,629.92
+30min,5.7107,3.0663,True,1971.0,314.96
+1hr,5.2126,3.0663,True,1971.0,157.48
+2hr,4.3201,3.0663,True,1971.0,78.74
+6hr,2.7921,3.0663,False,,
+24hr,2.149,3.0663,False,,
