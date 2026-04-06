@@ -4,8 +4,6 @@
 
 A fully from-scratch Python implementation of IDF curve derivation using 43 years of 15-minute NOAA precipitation records from Randolph, Alabama. All statistical methods — Gumbel and Log-Pearson Type III fitting, KS testing, Grubbs outlier detection, and bootstrap confidence intervals — are implemented without any statistical solver libraries.
 
-> CE 343 — Water Resources Engineering, Spring 2026 | IIT Bombay
-
 ---
 
 ## Table of Contents
