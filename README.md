@@ -2,7 +2,7 @@
 
 **Construction and Statistical Analysis of Intensity-Duration-Frequency (IDF) Curves from High-Resolution Rainfall Data**
 
-A fully from-scratch Python implementation of IDF curve derivation using 43 years of 15-minute NOAA precipitation records from Randolph, Alabama. All statistical methods — Gumbel and Log-Pearson Type III fitting, KS testing, Grubbs outlier detection, and bootstrap confidence intervals — are implemented without any statistical solver libraries.
+A fully from-scratch Python implementation of IDF curve derivation using 43 years of 15-minute NOAA precipitation records from Randolph, Alabama. All statistical methods — Gumbel and Log-Pearson Type III fitting, KS testing, Grubbs outlier detection, and bootstrap confidence intervals — are implemented without any statistical solver libraries. You can refer to the Master Report attached with the project for a detailed analysis.
 
 ---
 
